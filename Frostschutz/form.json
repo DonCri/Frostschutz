@@ -1,0 +1,11 @@
+{
+    "elements":
+    [
+        { "type": "Label", "label": ""},
+        { "type": "Label", "label": "Temperatur"},
+        { "type": "SelectVariable", "name": "Temperatursensor", "caption": "Temperaturfühler" },
+        { "type": "Label", "label": ""},
+        { "type": "Label", "label": "Regen"},
+        { "type": "SelectVariable", "name": "Regensensor", "caption": "Regensensor" }
+    ]
+}
